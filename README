@@ -1,0 +1,7 @@
+This is the code to accompany "Modeling Verb Lexicalization Biases using
+Hierarchical Bayesian Models", by Catherine Havasi and Robert Speer (2011).
+
+``mannerpath.py`` contains the main model code, which will produce a stream of
+results for a specified experimental condition. ``graph.py`` will make various
+graphs of these results, as in the paper, once enough results have been
+collected.
